@@ -8,7 +8,7 @@
 Addresses were sourced from a variety of public reports and queries. Please see the CSV file for details and addresses included in this calculation 
 Special thanks to  @tayvano_ and @j6sp5r
 
-If you haven't seen it already, Johannes did a great set of research scanning for typos which I incorporated: https://media.consensys.net/over-12-000-ether-are-lost-forever-due-to-typos-f6ccc35432f8
+If you haven't seen it already, Johannes did a great set of research scanning for typos which I incorporated: https://medium.com/consensys-media/over-12-000-ether-are-lost-forever-due-to-typos-f6ccc35432f8
 
 
 **To-Do section:
